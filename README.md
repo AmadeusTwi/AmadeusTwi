@@ -1,6 +1,4 @@
-<h1 align="center">Greetings, my name is AmadeusTwi</h1>
-<h3 align="center">I am a Software Engineer who builds cool shit</h3>
-
+![github-header-image](https://github.com/AmadeusTwi/AmadeusTwi/assets/23616925/fe8e1297-fe04-44f8-b153-bb433f3db006)
 
 - 🔨 I’m currently building [Steamify](https://github.com/AmadeusTwi/steamify)
 
