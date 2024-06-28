@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Greetings, my name is AmadeusTwi</h1>
+<h3 align="center">I am a Software Engineer who builds cool shit</h3>
 
-<!--
-**AmadeusTwi/AmadeusTwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amadeustwi&label=%F0%9F%91%80%20Profile%20lurkers&color=f97316&style=plastic" alt="amadeustwi" /> </p>
 
-Here are some ideas to get you started:
+- 🔨 I’m currently building [Steamify](https://github.com/AmadeusTwi/steamify)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 All of my projects & blog are available at [AmadeusTwi.dev](AmadeusTwi.dev)
+
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me at:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/amadeustwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amadeustwi" height="30" width="40" /></a>
+<a href="https://twitter.com/amadeustwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amadeustwi" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amadeustwi&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="amadeustwi" /></p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/amadeustwi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="amadeustwi" /></a></p><br><br>
