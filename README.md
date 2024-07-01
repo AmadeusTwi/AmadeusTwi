@@ -4,7 +4,7 @@
 
 - 📝 All of my projects & blog are available at [AmadeusTwi.dev](AmadeusTwi.dev)
 
-### Blog posts
+<!-- ### Blog posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
